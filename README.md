@@ -22,6 +22,8 @@ input code: 1KECBH
 - 📝 Membaca `user_id` dan `device_id` dari file `ids.txt` dengan format `user_id|device_id`
 - 📈 Menampilkan status poin (client points atau referral points) dalam tabel yang rapi
 
+## 📌 New Update!!
+- Support Multi Account
 ---
 
 ## 🚀 Cara Penggunaan
