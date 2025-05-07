@@ -5,6 +5,15 @@ Script ini digunakan untuk mengotomatiskan tugas di Ping Network, termasuk konek
 ![photo_2025-05-07_13-28-44](https://github.com/user-attachments/assets/0340451d-2bda-4738-9163-eef8e0d11be2)
 
 ---
+New Airdrops: PING NETWORK 
+🏷 Reward : Earn Point
+
+➡️App Only : https://download.pingnetwork.io/
+➖ Download App
+
+➡️Extension : https://chromewebstore.google.com/detail/ping-network-vpn/geeedmdpncfeomhgbjeafcahepjelimg
+
+input code: 1KECBH
 
 ## 📌 Fitur
 - ✅ Koneksi WebSocket otomatis ke server Ping Network dengan retry hingga 10 kali jika gagal
